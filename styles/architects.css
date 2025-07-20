@@ -233,6 +233,28 @@ main > section{
 }
 
 
+/* Footer Styles */
+.footer {
+  background-color: #fff4e6;
+  padding: 40px;
+  border-radius: 8px;
+  margin: 20px auto;
+  box-sizing: border-box;
+  max-width: 1440px;
+  margin: 0 auto;
+  margin-top: 130px;
+  margin-bottom: 216px;
+}
+
+.footer-text {
+  margin: 0;
+  font-size: 25px;
+  color: #424242;
+  text-align: center;
+}
+
+
+
 
 /* responsive media query */
 @media screen and (max-width: 576px) {
